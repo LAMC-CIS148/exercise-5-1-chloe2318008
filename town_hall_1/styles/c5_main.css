@@ -6,6 +6,9 @@
 	margin: 0;
 	padding: 0;
 }
+html {
+	color: white;
+}
 /* the styles for the elements */
 body {
 	background-color: #fffded;
